@@ -1,5 +1,5 @@
 public class Msg{
 	public static void main(string[] args){
-		system.out.println("Have a nice day");
+		system.out.println("today is 27th febraury");
 	}
 }
